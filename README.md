@@ -1,3 +1,6 @@
+# Caution
+To see the code without any problem, first **clone or download the repository**. Then see the result on local system.
+
 # Image-denoising-by-deep-learning
 Denoising Images by deep learning neural networks
 In this repository, I have explained a simple image denoising method based on deep neural networks. There was two different scenarios: <br>
